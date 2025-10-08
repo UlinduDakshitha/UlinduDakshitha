@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulindudakshitha" alt="ulindudakshitha" /></a> </p>
 
-- 🌱 I’m currently learning java,oop**SpringBoot,c#,.Net and reactjs**
+- 🌱 I’m currently learning **java,oop,SpringBoot,c#,.Net and reactjs**
 
 - 📫 How to reach me **ulindudakshitha001@gmail.com**
 
