@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulindudakshitha&show_icons=true&locale=en&layout=compact" alt="ulindudakshitha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ulindudakshitha&" alt="ulindudakshitha" /></p>
+ 
