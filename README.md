@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulindu Dakshitha Bandara</h1>
 <h3 align="center">I'm in Undergraduate Software Engineer 🧠🧑🏻‍💻👨🏻‍🎓</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulindudakshitha" alt="ulindudakshitha" /></a> </p>
+ 
 
 - 🌱 I’m currently learning **java,oop,SpringBoot,c#,.Net and reactjs**
 
