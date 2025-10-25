@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ulindu Dakshitha Bandara</h1>
 <h3 align="center">I'm in Undergraduate Software Engineer 🧠🧑🏻‍💻👨🏻‍🎓</h3>
 
- 
 
 - 🌱 I’m currently learning **java,oop,SpringBoot,c#,.Net and reactjs**
 
