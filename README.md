@@ -10,10 +10,10 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
-║  CODENAME: LogicLord                                             ║
-║  REAL_ID:  Ulindu Dakshitha Bandara                              ║ 
-║  STATUS:   🟢 ACTIVE                                             ║ 
-║  MISSION:  To develop technical skills and generate new ideas.   ║        
+    CODENAME: LogicLord                                             
+   REAL_ID:  Ulindu Dakshitha Bandara                             
+    STATUS:   🟢 ACTIVE                                             
+           MISSION:  To develop technical skills and generate new ideas.          
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
