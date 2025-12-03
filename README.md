@@ -9,12 +9,12 @@
 ## 🔮 **IDENTITY MATRIX**
 
 ```ascii
-╔══════════════════════════════════════════╗
-║  CODENAME: LogicLord                      ║
-║  REAL_ID:  Ulindu Dakshitha Bandara                      ║
-║  STATUS:   🟢 ACTIVE                     ║
-║  MISSION:  To develop technical skills and generate new ideas.            ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  CODENAME: LogicLord                                             ║
+║  REAL_ID:  Ulindu Dakshitha Bandara                              ║ 
+║  STATUS:   🟢 ACTIVE                                             ║ 
+║  MISSION:  To develop technical skills and generate new ideas.   ║        
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -68,9 +68,9 @@ console.log(`System running at ${techStack.efficiency}% capacity`);
 ### **RUNTIME ANALYTICS**
 ```
 ┌─ OPERATIONAL HOURS ─────────────────────────────────┐
-│ CODING_SESSIONS: 30 hours hrs/week      │
-│ EFFICIENCY_RATE: ████████████ 95%                  │
-│ UPTIME_STATUS: 🟢 MAXIMUM_PERFORMANCE              │
+│ CODING_SESSIONS: 30 hours hrs/week                  │
+│ EFFICIENCY_RATE: ████████████ 95%                   │
+│ UPTIME_STATUS: 🟢 MAXIMUM_PERFORMANCE               │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -108,7 +108,7 @@ console.log(`System running at ${techStack.efficiency}% capacity`);
 
 ```ascii
 ╔═══════════════════════════════════════════════════════╗
-║  CONNECTION TERMINATED - THANK YOU FOR VISITING      ║
-║  NEXT_PROTOCOL: Keep building the future 🚀          ║
+║  CONNECTION TERMINATED - THANK YOU FOR VISITING       ║
+║  NEXT_PROTOCOL: Keep building the future 🚀           ║
 ╚═══════════════════════════════════════════════════════╝
 ```
