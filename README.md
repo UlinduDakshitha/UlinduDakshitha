@@ -87,19 +87,18 @@ console.log(`System running at ${techStack.efficiency}% capacity`);
 
 
 ## 🌐 **COMMUNICATION CHANNELS**
+ ### 🔗 Social Profiles
 
-<div align="center">
+<a href="https://linkedin.com/in/ulindu-dakshitha-bandara-6aa081303" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
- <http://linkedin.com/in/ulindu-dakshitha-bandara-6aa081303/>
- 
 </div>
 
----
-
-<div align="center">
-
 ### **SYSTEM ACCESS LOG**
-![Visitor Matrix](https://profile-counter.glitch.me/Ulindu Dakshitha Bandara/count.svg)
+ <a href="https://github.com/UlinduDakshitha" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=END%20TRANSMISSION&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
 
