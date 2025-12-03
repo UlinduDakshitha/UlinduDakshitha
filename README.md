@@ -52,7 +52,7 @@ React,Nextjs,javascript,Typescript,tailwindCss,Nodejs,Expressjs,.Net,springboot,
 const techStack = {
   frontend: 'React,Nextjs,javascript,Typescript & tailwindCss',
   backend: 'Nodejs,Expressjs,.Net,springboot & Go',
-  cloud: '',
+  cloud: 'Docker,Kubernets',
   devops: 'GitHub actions with Docker and kubernetes',
   learning: 'Springboot,.Net,Go and Rust',
   next_upgrade: 'Skillfull Software Engineeer'
@@ -90,7 +90,7 @@ console.log(`System running at ${techStack.efficiency}% capacity`);
 
 <div align="center">
 
-[![Neural LinkedIn](https://img.shields.io/badge/LinkedIn-NEURAL_NETWORK-light blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](Ulindudakshithabandara)
+ <http://linkedin.com/in/ulindu-dakshitha-bandara-6aa081303/>
  
 </div>
 
