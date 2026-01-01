@@ -91,10 +91,9 @@ console.log(`System running at ${techStack.efficiency}% capacity`);
 
 <a href="https://linkedin.com/in/ulindu-dakshitha-bandara-6aa081303" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
- 
+</a> &nbsp;
  <a href="https://x.com/UlinduDakshitha" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" />
 </a>
 
 
